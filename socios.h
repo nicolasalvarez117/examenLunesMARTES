@@ -1,0 +1,20 @@
+void inicializarArraySocios(t_Socios str[],int cantidadElementos);
+void hardcodearLibros(t_Libros str[],int cantidadElementos);
+void menuPrincipal(int *resultado);
+void menuSocios(int *resultado);
+int buscarEspacioLibreSocios(t_Socios str[],int cantidadElementos,int valor);
+void altaDeSocios(t_Socios str[],int cantidadElementos,int *idIncremental);
+void baja(t_Socios str[],int cantidadElementos);
+void modificacionDeSocio(t_Socios str[],int cantidadElementos);
+void mostrarListaSocios(t_Socios str[],int cantidadElementos,int valorOcupado);
+int buscarDatoValidoSocios(t_Socios str[],int cantidadElementos,int valor);
+void menuModificacion(int *resultado);
+void ordenarApellidos(t_Socios str[],int cantidadElementos);
+void ordenarNombres(t_Socios str[],int cantidadElementos);
+void menuListaOrdenada(t_Socios str[],int cantidadElementos);
+void menuPrestamo(int *resultado);
+void mostrarListaLibros(t_Libros str[],int cantidadElementos);
+int buscarPosicionPrestamo(t_Prestamos str[],int cantidadElementos,int valor);
+void altaDePrestamo(t_Prestamos str[],t_Socios str2[],t_Libros str3[],int cantidadSocios,int cantidadLibros
+                    ,int *idIncremental);
+void inicializarEstadoPrestamo(t_Prestamos str[],int cantidadElementos);

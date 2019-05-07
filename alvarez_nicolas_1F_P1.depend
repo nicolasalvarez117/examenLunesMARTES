@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1557183464 source:d:\alvarez_nicolas_1f_p1\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1557189730 d:\alvarez_nicolas_1f_p1\imput.h
+
+1557188959 source:d:\alvarez_nicolas_1f_p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1557188662 d:\alvarez_nicolas_1f_p1\socios.h
+
+1557189686 source:d:\alvarez_nicolas_1f_p1\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
