@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1557183464 source:d:\alvarez_nicolas_1f_p1\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1557189730 d:\alvarez_nicolas_1f_p1\imput.h
+
+1557188959 source:d:\alvarez_nicolas_1f_p1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1557188662 d:\alvarez_nicolas_1f_p1\socios.h
+
+1557189686 source:d:\alvarez_nicolas_1f_p1\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1557242363 source:c:\users\walkinotebook\desktop\examen\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1557242769 c:\users\walkinotebook\desktop\examen\imput.h
+
+1557257648 source:c:\users\walkinotebook\desktop\examen\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1557256557 c:\users\walkinotebook\desktop\examen\socios.h
+
+1557257529 source:c:\users\walkinotebook\desktop\examen\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1557242364 source:d:\examenaactualizado\imput.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+
+1557242770 d:\examenaactualizado\imput.h
+
+1557275613 source:d:\examenaactualizado\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
+1557274627 d:\examenaactualizado\socios.h
+
+1557275718 source:d:\examenaactualizado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"imput.h"
+	"socios.h"
+
